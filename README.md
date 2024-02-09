@@ -3,7 +3,7 @@ This project pertains to my undergraduate thesis conducted at the Federal Univer
 
 
 # Project Setup
-Runs this  commands to setting up the enverioment
+Runs this  commands to setting up the enverioment:
 
 - `python3 -m venv venv && source venv/bin/activate`
 - `pip install -r requirements.txt`
