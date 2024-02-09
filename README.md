@@ -1,5 +1,5 @@
 # Description
-This project pertains to my undergraduate thesis conducted at the Federal University of São Carlos, focusing on sentiment analysis. The code contained in this repository relates to the training of three language models: BERT, RoBERTa, and BERTimbau.
+This project pertains to my undergraduate thesis conducted at the Federal University of São Carlos, focusing on sentiment analysis. The code contained in this repository relates to the training of three language models: BERT, RoBERTa and BERTimbau.
 
 
 # Project Setup
