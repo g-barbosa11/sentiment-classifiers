@@ -12,5 +12,5 @@ Runs this  commands to setting up the enverioment:
 To run the code, simply insert the training, testing, and validation datasets, and then update the model_name variable in the main.py file. After making these changes, execute the main.py file by running the command: 
 
 ```bash
-python3 main.py
+python3 model/main.py
 ``````
